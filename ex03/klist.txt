@@ -1,0 +1,5 @@
+Credentials cache: API:C2D15866-08EE-4517-83A2-7623D32BBE1E
+        Principal: ycanga@42ISTANBUL.COM.TR
+
+  Issued                Expires               Principal
+Oct 18 15:56:22 2021  Oct 19 01:56:22 2021  krbtgt/42ISTANBUL.COM.TR@42ISTANBUL.COM.TR
